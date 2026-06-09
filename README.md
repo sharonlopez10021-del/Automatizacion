@@ -41,7 +41,7 @@ Automatizacion/
 
 ## Agentes en VPS
 
-El agente **Hermes** corre en un VPS de Hostinger (`srv1698088.hstgr.cloud`, puerto 4860). Documentación en [`vps_agents/youtube-hermes/`](vps_agents/youtube-hermes/).
+El agente **Hermes** corre en un VPS privado (`servidor-privado`, puerto privado). Documentación en [`vps_agents/youtube-hermes/`](vps_agents/youtube-hermes/).
 
 ## Skills de n8n para Claude Code
 
